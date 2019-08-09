@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "social",
+		"path": "/Users/josuegarcia/Desktop/all.projects/social"
+	},
+	{
+		"name": "img",
+		"path": "/Users/josuegarcia/.Trash/dist 19-11-52-490/img"
+	},
+	{
+		"name": "resources",
+		"path": "/Users/josuegarcia/.Trash/dist 19-11-52-490/resources"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "social"
+  }
+}
